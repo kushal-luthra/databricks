@@ -1,0 +1,28 @@
+site_name: Databricks essentials
+site_author: Kushal Luthra
+site_description: Databricks essentials
+
+repo_name: databricks
+repo_url: https://github.com/kushal-luthra/databricks
+edit_uri: edit/main/docs/
+
+copyright: Copyright &copy; 2022 Kushal Luthra
+
+theme:
+  name: material
+  language: en
+
+nav:
+  - Home: index.md
+  - Databricks essentials:
+      - Introduction: Data Engineering with Databricks/1/1.md
+  - About Me: aboutme.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/kushal-luthra
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/kushal_luthra
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/kushalluthra/
